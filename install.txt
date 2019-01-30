@@ -1,5 +1,5 @@
 ####vmdStore#### START selectionManager
 ## Version XXversionXX
 lappend auto_path "$::vmdStorePath/plugins/selectionManager"
-vmd_install_extension selV "selV::start" "PortoBioComp/Selection Manager" 
+vmd_install_extension selV "selV::start" "VMD Store/Selection Manager" 
 ####vmdStore#### END selectionManager
